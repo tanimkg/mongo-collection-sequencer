@@ -1,0 +1,27 @@
+{
+  "name": "mongo-collection-sequencer",
+  "version": "1.0.0",
+  "description": "A node module to generate sequence number against a specific key of a mongodb collection. ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tanimkg/mongo-collection-sequencer.git"
+  },
+  "keywords": [
+    "mongodb",
+    "sequence",
+    "sequence-generator"
+  ],
+  "author": "Touhidur Rahman <tanimkg@gmail.com> (http://about.me/tanimkg)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanimkg/mongo-collection-sequencer/issues"
+  },
+  "homepage": "https://github.com/tanimkg/mongo-collection-sequencer#readme",
+  "dependencies": {
+    "mongoose": "^4.4.11"
+  }
+}
