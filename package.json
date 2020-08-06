@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/tanimkg/mongo-collection-sequencer#readme",
   "dependencies": {
-    "mongoose": "^4.4.11"
+    "mongoose": "^5.9.27"
   }
 }
